@@ -5,7 +5,7 @@ public class Main {
 
         //  ⭐ 다형성
         PolarBear polarBear = new PolarBear();
-        Mammal mammal = polarBear;
+        Mamal mamal = polarBear;
         Swimmer swimmer = polarBear;
 
         GlidingLizard glidingLizard = new GlidingLizard();
