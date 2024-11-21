@@ -1,4 +1,4 @@
-package inflearn.yalco.java_study.sec08;
+package inflearn.yalco.java_study.sec08.chap02;
 
 import inflearn.yalco.java_study.sec07.chap04.*;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class chap02 {
+public class Main {
     public static void main(String[] args) {
 
         //  ⭐️ 제네릭을 사용하여 타입 지정

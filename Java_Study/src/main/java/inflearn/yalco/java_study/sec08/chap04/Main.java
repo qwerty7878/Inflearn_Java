@@ -1,9 +1,9 @@
-package inflearn.yalco.java_study.sec08;
+package inflearn.yalco.java_study.sec08.chap04;
 
 import inflearn.yalco.java_study.sec07.chap04.*;
 import java.util.*;
 
-public class chap04 {
+public class Main {
     public static void main(String[] args) {
 
         Map<Integer, String> numNameHMap = new HashMap<>();

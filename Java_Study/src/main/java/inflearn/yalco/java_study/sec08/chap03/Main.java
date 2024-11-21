@@ -1,10 +1,10 @@
-package inflearn.yalco.java_study.sec08;
+package inflearn.yalco.java_study.sec08.chap03;
 
 import inflearn.yalco.java_study.sec07.chap04.*;
 import java.util.*;
 
 
-public class chap03 {
+public class Main {
     public static void main(String[] args) {
 
         Set<Integer> intHSet1 = new HashSet<>();
