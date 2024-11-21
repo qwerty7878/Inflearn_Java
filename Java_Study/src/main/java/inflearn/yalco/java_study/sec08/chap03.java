@@ -49,7 +49,8 @@ public class chap03 {
         swordmenSet.add(swordman);
         swordmenSet.add(new Swordman(Side.RED));
         swordmenSet.add(new Swordman(Side.RED));
-        //  swordmenSet.remove(swordman); // 실행해보기
+          swordmenSet.remove(swordman); // 실행해보기
+        //  특정 위치에 swordman은 remove가 가능하나 2,3번째 특정되지 않은 swordman은 clear로 지워야함
 
         HashSet<Integer> intHashSet = new HashSet<>();
         LinkedHashSet<Integer> intLinkedHashSet = new LinkedHashSet<>();
